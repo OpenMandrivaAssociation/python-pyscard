@@ -3,7 +3,7 @@
 
 Name:		python-pyscard
 Version:	2.3.1
-Release:	1
+Release:	2
 Summary:	Smartcard module for Python
 License:	LGPL-2.1-or-later
 Group:		Development/Python
